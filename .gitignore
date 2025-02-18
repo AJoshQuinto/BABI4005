@@ -1,9 +1,3 @@
-# Ignore CSV, Excel, and other dataset files
-nbaplayersdraft.csv
-data/
-*.csv
-*.xlsx
-*.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
